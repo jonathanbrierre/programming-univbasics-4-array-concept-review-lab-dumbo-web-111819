@@ -3,8 +3,8 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  array.sort!
-  max_value = array.shift
+  array.sort = arrayx
+  max_value = arrayx.shift
   p max_value
 end
 
