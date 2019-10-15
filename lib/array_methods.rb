@@ -3,9 +3,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-  array.sort = arrayx
-  max_value = arrayx[-1]
-  p max_value
+  p array.sort[-1]
 end
 
 def find_min_value(array)
