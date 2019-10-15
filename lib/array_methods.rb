@@ -5,7 +5,7 @@ end
 def find_max_value(array)
   array.sort = arrayx
   max_value = arrayx.shift
-  p max_value
+  puts max_value
 end
 
 def find_min_value(array)
